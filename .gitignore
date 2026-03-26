@@ -1,0 +1,26 @@
+# Python Junk (File Sampah Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Lingkungan Virtual)
+env/
+venv/
+.venv/
+ENV/
+
+# Security & Secrets (KEAMANAN - PALING PENTING!)
+.env
+.env.local
+.env.secret
+
+# IDE & OS Junk (Sampah Sistem)
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
