@@ -25,3 +25,7 @@ Anda boleh bilang hari ini selesai kalau:
 ✅ File `hello.py` sudah di-push ke GitHub dengan commit message "Day 1 Setup Complete"
 
 ---
+
+
+## Log Belajar
+* [26 Maret 2026] - Kembali aktif belajar setelah kendala teknis dan disiplin.
